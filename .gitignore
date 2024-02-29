@@ -1,0 +1,9 @@
+.vs/*
+mosh*
+inter/.vs/inter/*
+
+inter/inter/bin/Debug/*
+inter/inter/obj/Debug/*
+
+inter/interFaces/obj/Debug/*
+inter/interFaces/bin/Debug/*
